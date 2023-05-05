@@ -1,7 +1,7 @@
 # unsupervised-learning
 
 Implementation of two algorithms: 
-1) (parametric) K-means algorithm.
+1)(parametric) K-means algorithm.
 
 2)(non-parametric) DC-DP-means algorithm
 
